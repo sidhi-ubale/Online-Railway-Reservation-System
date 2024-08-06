@@ -1,0 +1,12 @@
+Admin Login:
+Email:admin@mail.com
+pass:siddhi@2002
+
+Employee(Vincent,Tom,James,John) Login:
+Email:vincent@mail.com
+pass:vincent@employee
+
+Passenger Login:
+Email:siddhi@25 , harsh@mail.com  ,seema@mail.com, jay@mail.com, geeta@mail.com, ram@mail.com
+pass:siddhi@25  , harsh@passenger ,seema@passenger, jay@passenger, GEETA@MAIL.COM, ram@passenger
+
